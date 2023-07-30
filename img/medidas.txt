@@ -1,0 +1,9 @@
+banner: 1920x1280
+bg-contacto: 1920x1280
+fotos colaboradores: 140x140
+foto formulario: 1280x756
+info: 740x426
+logo:149x171
+proyectos:600x510
+slides: 1000x590
+foto-contacto:1280x756
